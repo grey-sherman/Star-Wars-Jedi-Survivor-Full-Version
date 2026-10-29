@@ -267,4 +267,4 @@ This repository serves as the official landing page for Star Wars Jedi: Survivor
 **Get the most recent version of Star Wars Jedi: Survivor today!**
 
 ---
-**Last updated:** 2026-10-28 21:32:25 UTC
+**Last updated:** 2026-10-29 01:29:57 UTC
